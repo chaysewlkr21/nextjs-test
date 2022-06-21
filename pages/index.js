@@ -21,10 +21,10 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/Questionone" className={styles.card}>
-            <h2>Question 1 &rarr;</h2>
+          <link href="/Questionone" className={styles.card}>
+            <a>Question 1 &rarr;</a>
             <p>Answer to Question 1</p>
-          </a>
+          </link>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
