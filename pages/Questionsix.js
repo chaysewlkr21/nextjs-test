@@ -19,13 +19,13 @@ export default function Home() {
 
 <p>Thank you for contacting Vercel Support and providing the description of the deployment issue.  From my understanding the GitHub commits by one user fails to trigger any deployments. This is only happening with one user and on one project. Is that correct?</p>
 
-<p>If so, then can you kindly check and confirm the following list of fixes are complete:</p>
+<p>If so, then can you kindly check and confirm the following list of fixes are complete</p>
 
 <p>1. If you only granted permission for a limited set of repositories, there is a chance that the repository that Jane Doe is trying to push to doesn't have the necessary permissions. You can resolve this from the Git provider side by either granting permissions for all of the repositories, or you can make sure the repository in question is added to the users list.</p>
 
 <p>2. If you are pushing commits to a private repository connected to a Vercel project that belongs to a Team, ensure you are a member of that Vercel Team. Once you have been added to the Team, your commits will deploy as expected.</p>
 
-<p>3.Pushed commits will deploy automatically for public repositories. However, if the vercel.json file changed or the project has Environment Variables, a Team Member on Vercel will have to authorize the Deployment. This is a security measure that ensures changes to Environment Variables and other configuration properties are reviewed before a Deployment is created (it can be disabled if you prefer). A link to authorize the Deployment will be posted as a comment on the Pull Request.</p>
+<p>3. Pushed commits will deploy automatically for public repositories. However, if the vercel.json file changed or the project has Environment Variables, a Team Member on Vercel will have to authorize the Deployment. This is a security measure that ensures changes to Environment Variables and other configuration properties are reviewed before a Deployment is created (it can be disabled if you prefer). A link to authorize the Deployment will be posted as a comment on the Pull Request.</p>
 
 <p>If the issue still persists after checking the list please provide the runtime logs for the app. In the meantime I will attempt to replicate and isolate the issue on my end.</p>
 
