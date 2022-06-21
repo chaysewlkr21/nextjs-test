@@ -24,10 +24,10 @@ export default function Home() {
           <a href="https://nextjs-test-eta-dun.vercel.app/Questionone" className={styles.card}>
             <h2>Question 1 &rarr;</h2>
             <p>Imagine that you are the most senior support engineer within a team of 3 people. 
-              As the principal, and as platform usage and customer volume grows, you’re 
+              As the principal, and as platform usage and customer volume grows, youre 
               helping to determine the focus of the team for the following quarter. 
               From this list, pick the 5 highest prioritized actions and 5 lowest 
-              prioritized actions you’d lead the team on. Explain why you chose those prioritization levels.</p>
+              prioritized actions youd lead the team on. Explain why you chose those prioritization levels.</p>
           </a>
 
 
@@ -41,8 +41,8 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Question 3 &rarr;</h2>
-            <p>Imagine you are tasked with the following quarterly project: “Build a process for ensuring 
-              90% of our paid customers add 2FA (Two-Factor Authentication) ”.
+            <p>Imagine you are tasked with the following quarterly project:Build a process for ensuring 
+              90% of our paid customers add 2FA (Two-Factor Authentication).
               Spend 10 minutes outlining how you would approach this directive and execute on it.</p>
           </a>
 
@@ -53,7 +53,7 @@ export default function Home() {
             <h2>Question 4 &rarr;</h2>
             <p>
             Add a temporary in-app redirect to your project, redirecting /hello-vercel (or any path –
-            but be sure to tell us which!) to https://vercel.com
+            but be sure to tell us which!) to vercel
             </p>
           </a>
 
@@ -63,8 +63,8 @@ export default function Home() {
           >
             <h2>Question 5 &rarr;</h2>
             <p>
-            A customer writes in to the Helpdesk stating: "I have a custom domain which I
-            purchased at GoDaddy and I want to use it on my project". In a couple of paragraphs,
+            A customer writes in to the Helpdesk stating: I have a custom domain which I
+            purchased at GoDaddy and I want to use it on my project. In a couple of paragraphs,
             how do you respond?
             </p>
           </a>
@@ -76,7 +76,7 @@ export default function Home() {
             <h2>Question 6 &rarr;</h2>
             <p>
             A user writes in with the following problem: “On our team, GitHub commits by user 
-            janedoe@helloworld.com don’t trigger any deployments. 
+            janedoe@helloworld.com dont trigger any deployments. 
             Commits by other users work fine. Other projects work fine. 
             Help! What can we do to fix this?” How would you approach debugging this problem? 
             What questions would you ask, either internally or of the user? 
