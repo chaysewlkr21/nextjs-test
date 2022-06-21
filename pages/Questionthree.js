@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
         <p>1. Educate our paid customers on the importance of 2FA.</p>
 
-    <p>2. Conduct surveys for Paid customers to determine best 2FA authentication method.</p>
+        <h2> 2. Conduct surveys for Paid customers to determine best 2FA authentication method. </h2>
 
     <p>a. SMS TOKEN</p>
 
@@ -31,13 +31,13 @@ export default function Home() {
 
     <p>f. BIOMETRIC VERIFICATION</p>
 
-    <p>3. Work with internal stakeholders on best 2FA method(s) to use.</p>
+    <h2>3. Work with internal stakeholders on best 2FA method(s) to use.</h2>
 
-    <p>4. Create 2FA process using best method from surveys/consultation.</p>
+    <h2>4. Create 2FA process using best method from surveys/consultation.</h2>
 
-    <p>5. Q/A and Test the 2FA process with 3 live accounts.</p>
+    <h2>5. Q/A and Test the 2FA process with 3 live accounts.</h2>
 
-    <p>6. Implement and Deploy </p>
+    <h2>6. Implement and Deploy </h2>
       </main>
     </div>
   );
