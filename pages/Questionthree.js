@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Question 3
         </h1>
-        <p>1. Educate our paid customers on the importance of 2FA.</p>
+        <h2>1. Educate our paid customers on the importance of 2FA.</h2>
 
         <h2> 2. Conduct surveys for Paid customers to determine best 2FA authentication method. </h2>
 
