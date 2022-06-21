@@ -16,11 +16,9 @@ export default function Home() {
           Question 1
         </h1>
         <p className={styles.description}>
-        <br></br>5 Highest ></p></br>
-         </p>
-       
+        <br 5 Highest />
+       </p>
        </div>
     </main>
-  
-  );
+    );
 }
