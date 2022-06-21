@@ -21,10 +21,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <link href="/Questionone" className={styles.card}>
-            <a>Question 1 &rarr;</a>
-            <p>Answer to Question 1</p>
-          </link>
+          <a href="https://nextjs-test-eta-dun.vercel.app/Questionone" className={styles.card}>
+            <h2>Question 1 &rarr;</h2>
+            <p>Answer to Q1 Vercel Skills Test</p>
+          </a>
+
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
