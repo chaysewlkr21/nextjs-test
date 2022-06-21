@@ -15,7 +15,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Question 2
         </h1>
-
+        <p>I want to learn new software technologies and processes that are proven to be effective. 
+            I would like to do more work with product and back-end engineering teams to help improve 
+            the business processes and teach our clients about best practices so they can get the most out of the product.</p>
       </main>
     </div>
   );
