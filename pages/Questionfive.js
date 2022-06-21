@@ -15,7 +15,19 @@ export default function Home() {
         <h1 className={styles.title}>
           Question 5
         </h1>
+        <p>Hi,</p>
 
+<p>Thank you for reaching out to Vercel Support helpdesk. I am happy to help you with setting up your custom domain for your project.</p>
+
+<p>From my understanding you already purchased a domain from GoDaddy and you want to redirect your Vercel app to this domain. Is that correct?  If so, please use the following resource to determine the best solution for your needs.</p>
+
+<p>https://vercel.com/docs/concepts/projects/custom-domains</p>
+
+<p>In the above link there is documentation that provides the exact steps to setting up a custom domain on your Vercel project. With GoDaddy you are either given the option to configure your domain by A record or Nameservers.</p>
+
+<p>After reading the above linked document, please let me know if you have any questions and a I am happy to help!</p>
+
+<p>Best, Chayse</p>
       </main>
     </div>
   );
