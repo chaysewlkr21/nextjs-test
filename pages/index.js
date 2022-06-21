@@ -37,20 +37,72 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://nextjs-test-eta-dun.vercel.app/Questionthree"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Question 3 &rarr;</h2>
+            <p>Imagine you are tasked with the following quarterly project: “Build a process for ensuring 
+              90% of our paid customers add 2FA (Two-Factor Authentication) ”.
+              Spend 10 minutes outlining how you would approach this directive and execute on it.</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://nextjs-test-eta-dun.vercel.app/Questionfour"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Question 4 &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            Add a temporary in-app redirect to your project, redirecting /hello-vercel (or any path –
+            but be sure to tell us which!) to https://vercel.com
+            </p>
+          </a>
+
+          <a
+            href="https://nextjs-test-eta-dun.vercel.app/Questionfive"
+            className={styles.card}
+          >
+            <h2>Question 5 &rarr;</h2>
+            <p>
+            A customer writes in to the Helpdesk stating: "I have a custom domain which I
+            purchased at GoDaddy and I want to use it on my project". In a couple of paragraphs,
+            how do you respond?
+            </p>
+          </a>
+
+          <a
+            href="https://nextjs-test-eta-dun.vercel.app/Questionsix"
+            className={styles.card}
+          >
+            <h2>Question 6 &rarr;</h2>
+            <p>
+            A user writes in with the following problem: “On our team, GitHub commits by user 
+            janedoe@helloworld.com don’t trigger any deployments. 
+            Commits by other users work fine. Other projects work fine. 
+            Help! What can we do to fix this?” How would you approach debugging this problem? 
+            What questions would you ask, either internally or of the user? 
+            Write a response which you would send back to this user.
+            </p>
+          </a>
+
+          <a
+            href="https://nextjs-test-eta-dun.vercel.app/Questionseven"
+            className={styles.card}
+          >
+            <h2>Question 7 &rarr;</h2>
+            <p>
+            What do you think is one of the most common problems which customers ask 
+            Vercel for help with? How would you help customers 
+            to overcome common problems, short-term and long-term?
+            </p>
+          </a>
+
+          <a
+            href="https://nextjs-test-eta-dun.vercel.app/Questioneight"
+            className={styles.card}
+          >
+            <h2>Question 8 &rarr;</h2>
+            <p>
+            How could we improve or alter this familiarization exercise?
             </p>
           </a>
         </div>
