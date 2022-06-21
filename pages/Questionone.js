@@ -18,7 +18,9 @@ export default function Home() {
         <p className={styles.description}>
         <br></br>5 Highest ></p></br>
          </p>
+       
+       </div>
     </main>
-    </div>
+  
   );
 }
