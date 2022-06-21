@@ -16,7 +16,7 @@ export default function Home() {
           Question 1
         </h1>
         <p className={styles.description}>
-        5 Highest <br>
+        <br>5 Highest</br>
         <br> 1.	Write and maintain support articles and docs pages </br>
         <br>2.	Analyze hundreds of support tickets to spot trends the product team can use </br>
         <br>3.	Help train and onboard new support teammates </br>
@@ -32,7 +32,7 @@ export default function Home() {
       3.	Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites 
       4.	Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems 
       5.	Work with people to figure out if Vercel is suitable for their use case 
-      The above list seemed to be most remote to the support engineer’s role. 
+      The above list seemed to be most remote to the support engineer's role. 
       Billing issues, QA sessions and internal management are tasks that are easily done by other groups/members of an organization. 
       Though they are important they are not essential to the growth of a Support team. 
         </p>
