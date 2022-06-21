@@ -15,6 +15,27 @@ export default function Home() {
         <h1 className={styles.title}>
           Question 1
         </h1>
+        <p className={styles.description}>
+        5 Highest 
+1.	Write and maintain support articles and docs pages
+2.	Analyze hundreds of support tickets to spot trends the product team can use
+3.	Help train and onboard new support teammates
+4.	Work with engineering teams during incidents and provide updates to internal and external stakeholders
+5.	Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel
+The reason for choosing the above prioritization levels is to maintain the integrity of the support engineer’s role. 
+The above list is focused on practices and processes that give the support team scalability. 
+By documenting and maintaining a knowledge base, new hires plus existing staff can learn how to quickly adapt to issues that may be unknown. 
+This helps removes bottlenecks from the support process and creates a healthy relationship with the customer. Working with other engineering teams is essential as well. Good communication in a support role is the most overlooked skill. When not done correctly it can create a huge problem for engineers and customer expectations. 
+5 Lowest
+1.	Help resolve billing issues for customers
+2.	Manage a support team
+3.	Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
+4.	Engage multiple users at once in a public discussion, to answer their questions and troubleshoot problems
+5.	Work with people to figure out if Vercel is suitable for their use case
+The above list seemed to be most remote to the support engineer’s role. 
+Billing issues, QA sessions and internal management are tasks that are easily done by other groups/members of an organization. 
+Though they are important they are not essential to the growth of a Support team. 
+        </p>
     </main>
     </div>
   );
