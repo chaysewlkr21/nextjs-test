@@ -47,7 +47,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://nextjs-test-eta-dun.vercel.app/Questionfour"
+            href="https://vercel.com"
             className={styles.card}
           >
             <h2>Question 4 &rarr;</h2>
