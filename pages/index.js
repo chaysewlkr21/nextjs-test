@@ -23,13 +23,17 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs-test-eta-dun.vercel.app/Questionone" className={styles.card}>
             <h2>Question 1 &rarr;</h2>
-            <p>Answer to Q1 Vercel Skills Test</p>
+            <p>Imagine that you are the most senior support engineer within a team of 3 people. 
+              As the principal, and as platform usage and customer volume grows, you’re 
+              helping to determine the focus of the team for the following quarter. 
+              From this list, pick the 5 highest prioritized actions and 5 lowest 
+              prioritized actions you’d lead the team on. Explain why you chose those prioritization levels.</p>
           </a>
 
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://nextjs-test-eta-dun.vercel.app/Questiontwo" className={styles.card}>
+            <h2>Question 2 &rarr;</h2>
+            <p>What do you want to learn, or do more of, at work?</p>
           </a>
 
           <a
